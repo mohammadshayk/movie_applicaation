@@ -1,1 +1,1 @@
-This is a movie information web-app like IMDb. I have used omdbapi key for the info and represented it in react. This is a beginner project followed from JS-Masterys' youtube channel. I shall be making changes in it for my learning purposes.
+This is a movie information web-app like IMDb. I have used omdbapi key for the info and represented it in react. This is a beginner project followed from JS-Masterys' youtube channel. I shall be making changes in it for my learning purposes. The node modules file has been excluded from this repository because of its size.
