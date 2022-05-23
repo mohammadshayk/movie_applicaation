@@ -1,7 +1,7 @@
 This is a movie information web-app like IMDb. The node modules file has been excluded from this repository because of its size.
 
 
-• Fetched the API from omdbapi and created a .env file for the key 
+• Fetched the API from omdbapi.com and created a .env file for the key 
 
 • Gathered the information in json form and represented it in React  
 
