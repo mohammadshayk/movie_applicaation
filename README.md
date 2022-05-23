@@ -1,1 +1,8 @@
-This is a movie information web-app like IMDb. I have used omdbapi key for the info and represented it in react. This is a beginner project followed from JS-Masterys' youtube channel. I shall be making changes in it for my learning purposes. The node modules file has been excluded from this repository because of its size.
+This is a movie information web-app like IMDb. The node modules file has been excluded from this repository because of its size.
+
+
+• Fetched the API from omdbapi and created a .env file for the key 
+
+• Gathered the information in json form and represented it in React  
+
+• Implemented CSS with react components for better user experience
